@@ -39,7 +39,7 @@ class _GameScreenState extends State<GameScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Jogo de Palitos'),
+        title: Text('GUSTAVO CARDOSO SANTOS DA SILVA 1431432312003'),
       ),
       body: Container(
         color: Colors.black,
